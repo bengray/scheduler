@@ -14,47 +14,56 @@ const store = configureStore(
                 time: "9",
                 displayName: "9:00",
                 scheduled: "false",
-                information: ""
+                name: ""
             },
             {
                 time: "10",
                 displayName: "10:00",
-                scheduled: "false"
+                scheduled: "false",
+                name: ""
+
             },
             {
                 time: "11",
                 displayName: "11:00",
-                scheduled: "false"
+                scheduled: "false",
+                name: ""
             },
             {
                 time: "12",
                 displayName: "12:00",
-                scheduled: "false"
+                scheduled: "false",
+                name: ""
             },
             {
                 time: "1",
                 displayName: "1:00",
-                scheduled: "false"
+                scheduled: "false",
+                name: ""
             },
             {
                 time: "2",
                 displayName: "2:00",
-                scheduled: "false"
+                scheduled: "false",
+                name: ""
             },
             {
                 time: "3",
                 displayName: "3:00",
-                scheduled: "false"
+                scheduled: "false",
+                name: ""
             },
             {
                 time: "4",
                 displayName: "4:00",
-                scheduled: "false"
+                scheduled: "false",
+                name: ""
             },
             {
                 time: "5",
                 displayName: "5:00",
-                scheduled: "false"
+                scheduled: "false",
+                name: ""
             },
         ]
     }
